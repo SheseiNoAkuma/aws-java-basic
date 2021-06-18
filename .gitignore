@@ -1,0 +1,9 @@
+# Project exclude paths
+/target/
+gradle
+build
+.aws-sam
+.gradle
+.idea
+
+*.iml
